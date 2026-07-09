@@ -1,4 +1,4 @@
-<img width="1175" height="662" alt="Screenshot 2026-07-08 184452" src="https://github.com/user-attachments/assets/69e1fc55-7764-48b2-a745-73382e643557" /># 🌍 Global Job Market Insights Dashboard
+Global Job Market Insights Dashboard
 
 An interactive Power BI dashboard built using a cleaned global job market dataset. The project focuses on Exploratory Data Analysis (EDA), data cleaning, and visualization to uncover hiring trends, top companies, job types, experience requirements, skills, and locations.
 
